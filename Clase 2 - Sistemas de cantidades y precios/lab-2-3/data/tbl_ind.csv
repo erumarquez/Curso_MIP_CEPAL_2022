@@ -1,0 +1,46 @@
+cod,sec,desc,desc_short
+s01_01T02,DOM_01T02,"Agriculture, hunting, forestry",Agric.; forestry
+s02_03,DOM_03,Fishing and aquaculture,Fishing
+s03_05T06,DOM_05T06,"Mining and quarrying, energy producing products",Oil and gas
+s04_07T08,DOM_07T08,"Mining and quarrying, non-energy producing products",Mining
+s05_09,DOM_09,Mining support service activities,Mining support
+s06_10T12,DOM_10T12,"Food products, beverages and tobacco",Food; beverages; tobacco
+s07_13T15,DOM_13T15,"Textiles, textile products, leather and footwear",Textiles; leather
+s08_16,DOM_16,Wood and products of wood and cork,Wood prod.
+s09_17T18,DOM_17T18,Paper products and printing,Paper and printing
+s10_19,DOM_19,Coke and refined petroleum products,Ref. petroleum
+s11_20,DOM_20,Chemical and chemical products,Chemicals
+s12_21,DOM_21,"Pharmaceuticals, medicinal chemical and botanical products",Pharmaceuticals
+s13_22,DOM_22,Rubber and plastics products,Rubber; plastic
+s14_23,DOM_23,Other non-metallic mineral products,Non-metal prod.
+s15_24,DOM_24,Basic metals,Basic metals
+s16_25,DOM_25,Fabricated metal products,Metal prod.
+s17_26,DOM_26,"Computer, electronic and optical equipment",Comp.; electronic; optical
+s18_27,DOM_27,Electrical equipment,Electrical eq.
+s19_28,DOM_28,"Machinery and equipment, nec",Mach. and eq.
+s20_29,DOM_29,"Motor vehicles, trailers and semi-trailers",Motor vehicles
+s21_30,DOM_30,Other transport equipment,Other transp. eq.
+s22_31T33,DOM_31T33,Manufacturing nec; repair and installation of machinery and equipment,Other manuf.
+s23_35,DOM_35,"Electricity, gas, steam and air conditioning supply",Elec; gas
+s24_36T39,DOM_36T39,"Water supply; sewerage, waste management and remediation activities",Water
+s25_41T43,DOM_41T43,Construction,Construction
+s26_45T47,DOM_45T47,Wholesale and retail trade; repair of motor vehicles,Trade
+s27_49,DOM_49,Land transport and transport via pipelines,Land transp.
+s28_50,DOM_50,Water transport,Water transp.
+s29_51,DOM_51,Air transport,Air transp.
+s30_52,DOM_52,Warehousing and support activities for transportation,Transp. support
+s31_53,DOM_53,Postal and courier activities,Post
+s32_55T56,DOM_55T56,Accommodation and food service activities,Accomodation and food
+s33_58T60,DOM_58T60,"Publishing, audiovisual and broadcasting activities",Publishing; broadcasting
+s34_61,DOM_61,Telecommunications,Telecommunications
+s35_62T63,DOM_62T63,IT and other information services,IT
+s36_64T66,DOM_64T66,Financial and insurance activities,Finance and insurance
+s37_68,DOM_68,Real estate activities,Real estate
+s38_69T75,DOM_69T75,"Professional, scientific and technical activities",Prof. serv.
+s39_77T82,DOM_77T82,Administrative and support services,Admin. services
+s40_84,DOM_84,Public administration and defence; compulsory social security,Public admin.
+s41_85,DOM_85,Education,Education
+s42_86T88,DOM_86T88,Human health and social work activities,Health
+s43_90T93,DOM_90T93,"Arts, entertainment and recreation",Entretainment
+s44_94T96,DOM_94T96,Other service activities,Other serv.
+s45_97T98,DOM_97T98,Activities of households as employers; undifferentiated goods- and services-producing activities of,Domestic work

@@ -1,0 +1,46 @@
+"","tbl_ind.desc_short","x_var_3"
+"s01_01T02","Agric.; forestry",0.167084421199326
+"s02_03","Fishing",0.453582128262209
+"s03_05T06","Oil and gas",0.423581644908655
+"s04_07T08","Mining",0.211415218422162
+"s05_09","Mining support",0.374001291405612
+"s06_10T12","Food; beverages; tobacco",0.341382065297657
+"s07_13T15","Textiles; leather",0.300893847962014
+"s08_16","Wood prod.",1.11085251635255
+"s09_17T18","Paper and printing",0.458767826734618
+"s10_19","Ref. petroleum",0.462857180771059
+"s11_20","Chemicals",0.693092496694447
+"s12_21","Pharmaceuticals",0.419576185817294
+"s13_22","Rubber; plastic",0.739830133832076
+"s14_23","Non-metal prod.",0.987382057124986
+"s15_24","Basic metals",61.5511342143885
+"s16_25","Metal prod.",8.67922065515945
+"s17_26","Comp.; electronic; optical",3.55059910646107
+"s18_27","Electrical eq.",13.7046778226552
+"s19_28","Mach. and eq.",4.78366442023952
+"s20_29","Motor vehicles",8.1587767134258
+"s21_30","Other transp. eq.",1.625519903385
+"s22_31T33","Other manuf.",1.53846604771306
+"s23_35","Elec; gas",0.275002316440354
+"s24_36T39","Water",0.33788884900412
+"s25_41T43","Construction",1.34591158255424
+"s26_45T47","Trade",0.120122709653936
+"s27_49","Land transp.",0.312484269621516
+"s28_50","Water transp.",0.345686909317378
+"s29_51","Air transp.",0.225888360877224
+"s30_52","Transp. support",0.3010557933951
+"s31_53","Post",0.16437348308318
+"s32_55T56","Accomodation and food",0.190617658869807
+"s33_58T60","Publishing; broadcasting",0.227956951625563
+"s34_61","Telecommunications",0.280460046683961
+"s35_62T63","IT",0.278573483914557
+"s36_64T66","Finance and insurance",0.0944060447114481
+"s37_68","Real estate",0.215327037594637
+"s38_69T75","Prof. serv.",0.224190453383133
+"s39_77T82","Admin. services",0.247119821370334
+"s40_84","Public admin.",0.192241802764204
+"s41_85","Education",0.0902997238159342
+"s42_86T88","Health",0.124519290770952
+"s43_90T93","Entretainment",0.233758698897191
+"s44_94T96","Other serv.",0.226510705047622
+"s45_97T98","Domestic work",0
